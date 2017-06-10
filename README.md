@@ -1,6 +1,6 @@
 <html>
     <head>
-      <title>LA</title>
+      <tittle>LA</tittle>
     </head>
   <body>
     <ul>
